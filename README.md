@@ -34,7 +34,8 @@ Kịch bản được thiết lập trong Apache JMeter bao gồm các thành ph
   - `Summary Report`: Thống kê tổng hợp các chỉ số hiệu năng (KPI).
 
 ### Hình ảnh cấu hình HTTP Request:
-![Cấu hình HTTP Request - GET Home Page](images/01_http_request_config.png)
+<img width="1519" height="859" alt="Screenshot 2026-10-14 111634" src="https://github.com/user-attachments/assets/640aa566-154b-4730-bd75-3e51b0f9b92e" />
+
 
 ---
 
@@ -42,7 +43,8 @@ Kịch bản được thiết lập trong Apache JMeter bao gồm các thành ph
 
 Sau khi hoàn tất quá trình chạy tải với tổng số **180 samples**, dữ liệu thu nhận được tại **Summary Report** như sau:
 
-![Summary Report](images/02_summary_report.png)
+<img width="1510" height="833" alt="Screenshot 2026-10-14 111702" src="https://github.com/user-attachments/assets/ec9df6f2-ad9a-42c4-ad3f-a42168beb260" />
+
 
 ### Bảng dữ liệu thống kê chi tiết:
 
@@ -65,7 +67,8 @@ Sau khi hoàn tất quá trình chạy tải với tổng số **180 samples**, 
 
 Kiểm tra một request thành công điển hình (`Thread Group 1-5`) ghi nhận các thông số kỹ thuật chi tiết:
 
-![View Results Tree](images/03_view_results_tree.png)
+<img width="1512" height="851" alt="Screenshot 2026-10-14 111649" src="https://github.com/user-attachments/assets/eabeda91-b88e-4e68-a260-59e3dac6d2a0" />
+
 
 ### Thông số mẫu thành công (Sample Result Detail):
 * **Thread Name:** `Thread Group 1-5`
