@@ -1,7 +1,5 @@
 # BÁO CÁO KIỂM THỬ ÁP LỰC (STRESS TESTING) REST API BẰNG APACHE JMETER
 
----
-
 ## 1. MỤC TIÊU VÀ PHẠM VI KIỂM THỬ (OBJECTIVES & SCOPE)
 
 ### 1.1. Mục tiêu kiểm thử
